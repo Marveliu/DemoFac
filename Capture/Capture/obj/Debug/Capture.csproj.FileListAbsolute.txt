@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\DemoFac\Capture\Capture\bin\Debug\Capture.exe.config
+C:\Users\Administrator\Desktop\DemoFac\Capture\Capture\bin\Debug\Capture.exe
+C:\Users\Administrator\Desktop\DemoFac\Capture\Capture\bin\Debug\Capture.pdb
+C:\Users\Administrator\Desktop\DemoFac\Capture\Capture\obj\Debug\Capture.Form1.resources
+C:\Users\Administrator\Desktop\DemoFac\Capture\Capture\obj\Debug\Capture.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DemoFac\Capture\Capture\obj\Debug\Capture.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DemoFac\Capture\Capture\obj\Debug\Capture.exe
+C:\Users\Administrator\Desktop\DemoFac\Capture\Capture\obj\Debug\Capture.pdb
